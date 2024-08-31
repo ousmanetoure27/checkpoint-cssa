@@ -1,0 +1,33 @@
+.logo-docplanner {
+height: 40px;
+}
+
+.lead__logo{
+    padding-inline: 350px;
+}
+
+.letter {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 45;
+    ;
+}
+nav{
+
+    height: 30%;
+
+    width: 100%;
+}
+
+A#{
+
+    color: aliceblue;
+
+}
+
+nav ul li{
+display: inline-block;
+justify-content: flex-end;
+margin: 10;
+
+
+}
